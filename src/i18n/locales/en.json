@@ -1,0 +1,45 @@
+{
+  "common": {
+    "appName": "AI Health Assistant",
+    "settings": "Settings",
+    "logout": "Logout",
+    "save": "Save",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "error": "Error"
+  },
+  "symptoms": {
+    "title": "Symptom Checker",
+    "severity": {
+      "mild": "Mild",
+      "moderate": "Moderate",
+      "severe": "Severe"
+    },
+    "categories": {
+      "general": "General",
+      "respiratory": "Respiratory",
+      "digestive": "Digestive",
+      "neurological": "Neurological"
+    }
+  },
+  "diagnosis": {
+    "title": "Diagnosis Results",
+    "confidence": "Confidence",
+    "recommendations": "Recommendations",
+    "history": "Previous Diagnoses"
+  },
+  "chatbot": {
+    "title": "Health Assistant",
+    "placeholder": "Type your message...",
+    "greeting": "Hello! How can I help you today?"
+  },
+  "education": {
+    "title": "Health Education",
+    "categories": {
+      "prevention": "Prevention",
+      "lifestyle": "Lifestyle",
+      "nutrition": "Nutrition",
+      "fitness": "Fitness"
+    }
+  }
+}

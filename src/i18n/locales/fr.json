@@ -1,0 +1,45 @@
+{
+  "common": {
+    "appName": "Assistant Santé IA",
+    "settings": "Paramètres",
+    "logout": "Déconnexion",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "loading": "Chargement...",
+    "error": "Erreur"
+  },
+  "symptoms": {
+    "title": "Vérificateur de Symptômes",
+    "severity": {
+      "mild": "Léger",
+      "moderate": "Modéré",
+      "severe": "Sévère"
+    },
+    "categories": {
+      "general": "Général",
+      "respiratory": "Respiratoire",
+      "digestive": "Digestif",
+      "neurological": "Neurologique"
+    }
+  },
+  "diagnosis": {
+    "title": "Résultats du Diagnostic",
+    "confidence": "Confiance",
+    "recommendations": "Recommandations",
+    "history": "Diagnostics Précédents"
+  },
+  "chatbot": {
+    "title": "Assistant Santé",
+    "placeholder": "Tapez votre message...",
+    "greeting": "Bonjour! Comment puis-je vous aider aujourd'hui?"
+  },
+  "education": {
+    "title": "Éducation à la Santé",
+    "categories": {
+      "prevention": "Prévention",
+      "lifestyle": "Style de Vie",
+      "nutrition": "Nutrition",
+      "fitness": "Fitness"
+    }
+  }
+}
